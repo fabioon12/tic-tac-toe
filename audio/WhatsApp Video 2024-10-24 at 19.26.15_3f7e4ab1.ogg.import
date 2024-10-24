@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://e0xxqh7xfj60"
+path="res://.godot/imported/WhatsApp Video 2024-10-24 at 19.26.15_3f7e4ab1.ogg-f2c2b6ec13cc7489d8cd7f7c38c84693.oggvorbisstr"
+
+[deps]
+
+source_file="res://audio/WhatsApp Video 2024-10-24 at 19.26.15_3f7e4ab1.ogg"
+dest_files=["res://.godot/imported/WhatsApp Video 2024-10-24 at 19.26.15_3f7e4ab1.ogg-f2c2b6ec13cc7489d8cd7f7c38c84693.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
